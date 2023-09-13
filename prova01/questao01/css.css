@@ -1,0 +1,32 @@
+.box{
+  border: 5px solid #000;
+  color: #000;
+  font-size: 32px;
+  display: flex;
+}
+
+
+.externo {
+  width: 600px;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.externo :first-child {
+  background-color: #f00;
+  border-color: green;
+}
+
+.externo :last-child{
+  background-color: blue;
+  border-color: yellow;
+}
+
+
+.interno {
+  width: 200px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}
+
