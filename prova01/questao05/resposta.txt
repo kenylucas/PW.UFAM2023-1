@@ -1,0 +1,7 @@
+Na linguagem Javascript, qual é a diferença entre == e === ?
+
+==  -> "Equals to" em "Value" 
+=== -> "Equals to" em "Value" e "Tipo"
+
+==  é usado para comparar variáveis com relação aos seus valores, exemplo: uma variável x de tipo string e uma variável y de tipo inteiro podem ser iguais para essa operação. 
+=== é usado para comparar variáveis com relação aos seus valores e tipos, exemplo: uma variável x de tipo string e uma variável y de tipo inteiro não podem ser iguais para essa operação. 
